@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tayybashaikh/smart-resume-builder/static/css/main.6f165b4e.css",
+    "main.js": "/tayybashaikh/smart-resume-builder/static/js/main.5874e8cb.js",
+    "static/js/453.18d3b1f8.chunk.js": "/tayybashaikh/smart-resume-builder/static/js/453.18d3b1f8.chunk.js",
+    "index.html": "/tayybashaikh/smart-resume-builder/index.html",
+    "main.6f165b4e.css.map": "/tayybashaikh/smart-resume-builder/static/css/main.6f165b4e.css.map",
+    "main.5874e8cb.js.map": "/tayybashaikh/smart-resume-builder/static/js/main.5874e8cb.js.map",
+    "453.18d3b1f8.chunk.js.map": "/tayybashaikh/smart-resume-builder/static/js/453.18d3b1f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f165b4e.css",
+    "static/js/main.5874e8cb.js"
+  ]
+}

@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# 🧠 Smart Resume Builder (ReactJS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Smart Resume Builder web application developed using *ReactJS*. It aims to help users create professional resumes with the help of a clean and guided UI.
 
-## Available Scripts
 
-In the project directory, you can run:
+## 📌 Project Objective
 
-### `npm start`
+To build a smart, multi-step resume builder where users can:
+- Enter personal information
+- Add educational qualifications
+- Add technical, programming, and soft skills
+- Preview or download the final resume
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚧 Project Status (as of July 8, 2025)
 
-### `npm test`
+### ✅ Completed Modules:
+- [x] *Personal Information Page* (Full Name, Email, Phone Number)
+- [x] *Education Section* (Institution, Degree, Passing Year)
+- [x] *Skills Section*:
+  - Programming Skills (e.g., JavaScript, Python)
+  - Technical Skills (e.g., HTML, AI)
+  - Soft Skills (e.g., Communication, Teamwork)
+- [x] Form Navigation with "Next" buttons
+- [x] Basic Styling for layout and components
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🛠 In Progress:
+- Resume preview and print/download feature
+- Experience section with company, role, duration
+- Final integration of all data into resume template
+- Responsive design and final UI polish
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🖼 Screenshots (Optional - Add if available)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Tech Stack
 
-### `npm run eject`
+- React JS
+- HTML & CSS
+- JavaScript
+- React Router DOM (for multi-page navigation)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📅 Submission Note
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The current repository shows completed modules and structure for further integration.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

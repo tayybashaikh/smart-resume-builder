@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/smart-resume-builder/static/css/main.6f165b4e.css",
-    "main.js": "/smart-resume-builder/static/js/main.23a876ed.js",
+    "main.css": "/smart-resume-builder/static/css/main.50d1dad4.css",
+    "main.js": "/smart-resume-builder/static/js/main.04c9b3e0.js",
+    "static/js/977.96e2a6e4.chunk.js": "/smart-resume-builder/static/js/977.96e2a6e4.chunk.js",
+    "static/js/732.24ea3bc0.chunk.js": "/smart-resume-builder/static/js/732.24ea3bc0.chunk.js",
     "static/js/453.18d3b1f8.chunk.js": "/smart-resume-builder/static/js/453.18d3b1f8.chunk.js",
     "index.html": "/smart-resume-builder/index.html",
-    "main.6f165b4e.css.map": "/smart-resume-builder/static/css/main.6f165b4e.css.map",
-    "main.23a876ed.js.map": "/smart-resume-builder/static/js/main.23a876ed.js.map",
+    "main.50d1dad4.css.map": "/smart-resume-builder/static/css/main.50d1dad4.css.map",
+    "main.04c9b3e0.js.map": "/smart-resume-builder/static/js/main.04c9b3e0.js.map",
+    "977.96e2a6e4.chunk.js.map": "/smart-resume-builder/static/js/977.96e2a6e4.chunk.js.map",
+    "732.24ea3bc0.chunk.js.map": "/smart-resume-builder/static/js/732.24ea3bc0.chunk.js.map",
     "453.18d3b1f8.chunk.js.map": "/smart-resume-builder/static/js/453.18d3b1f8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f165b4e.css",
-    "static/js/main.23a876ed.js"
+    "static/css/main.50d1dad4.css",
+    "static/js/main.04c9b3e0.js"
   ]
 }
